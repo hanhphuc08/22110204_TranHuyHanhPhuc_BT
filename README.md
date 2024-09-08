@@ -1,2 +1,2 @@
-# 22110204_TranHuyHanhPhuc_BT01
-Bài tập 1 môn lập trình web
+# 22110204_TranHuyHanhPhuc_BT
+Bài tập môn lập trình web
